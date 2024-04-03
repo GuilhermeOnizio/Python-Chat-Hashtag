@@ -1,4 +1,4 @@
-# :star2: Projeto: Python Dev
+# :star2: Projeto: Python Dev HashZap
 
 Este projeto foi realizado durante a Jornada Python da Hashtag Treinamentos. Nesta aula, criamos um Chat ao vivo, chamado de HashZap.  Uma espécie de Whatsapp. Vai ser um chat ao
 vivo, onde as pessoas podem entrar e conversar como se fosse um chat normal.
